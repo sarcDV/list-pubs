@@ -4,7 +4,7 @@ PEER-REVIEWED JOURNAL ARTICLES
 • Magnetic Resonance in Medicine. 
 Prospective motion correction improves high-resolution quantitative susceptibility mapping (QSM) at 7 Tesla. 
 H. Mattern, A. Sciarra, F. Lüsebrink, J. Acosta-Cabronero, O. Speck. 
-(http: //dx.doi.org/doi:10.1002/mrm.27509).
+(http://dx.doi.org/doi:10.1002/mrm.27509).
 
 • Journal of Vision. 
 Perceived and mentally rotated contents are differentially represented in cortical layers of V1. 
