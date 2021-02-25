@@ -19,25 +19,39 @@ H. Mattern, A. Sciarra, F. Godenschweger, D. Stucht, F. Lüsebrink, G. Rose, O. 
 • Nature Scientific Data. 
 T1-weighted in vivo human whole brain MRI dataset with an ultrahigh isotropic resolution of 250 μm. 
 Falk Lüsebrink, Alessandro Sciarra, Hendrik Mattern, Renat Yakupov, and Oliver Speck. 
-(http://www. nature.com/articles/sdata201732).
+(http://www.nature.com/articles/sdata201732).
 
 • Magnetic Resonance in Medicine. 
 Model-based Iterative Reconstruction for Single-shot EPI at 7T. 
 U. Yarach, M.H. In, I. Chatnuntawech, B. Bilgic, F. Godenschweger, H. Mattern, A. Sciarra, O. Speck. 
-(http://dx.doi.org/10.1002/ mrm.26633).
+(http://dx.doi.org/10.1002/mrm.26633).
 
 • Physics in Medicine and Biology - IOPscience -Topical Review. 
 Motion correction in MRI of the brain. 
 F. Godenschweger, U. Kägebein, D. Stucht, U. Yarach, A. Sciarra, R. Yakupov, F. Lüsebrink, P. Schulze, O. Speck. 
-(http: //dx.doi.org/10.1088/0031- 9155/61/5/R32).
+(http: //dx.doi.org/10.1088/0031-9155/61/5/R32).
 
 • Behavioural Brain Research, Vol. 250, 08/2013, 326-333. 
 Switching Ability of Over Trained Movements in a Parkinson’s Disease Rat Model. 
 T.M. Florio, G. Confalone, A. Sciarra, A. Sotgiu, M. Alecci 
-(http://dx.doi.org/10. 1016/j.bbr.2013.05.020).
+(http://dx.doi.org/10.1016/j.bbr.2013.05.020).
 
 
 PEER-REVIEWED CONFERENCE CONTRIBUTIONS: 
+
+• 29th ISMRM, May 2021, Virtual Conference. 
+Unsupervised reconstruction based anomaly detection using a Variational Auto Encoder. 
+S. Chatterjee, A. Sciarra, M. Dünnwald, D. Setlur, A. Kalra, S. Oeltze-Jafra, O. Speck, A. Nürnberger
+
+• 29th ISMRM, May 2021, Virtual Conference. 
+Going beyond the image space: undersampled MRI reconstruction directly in the k-space using a complex valued residual neural network. 
+S. Chatterjee, S.Chompunuch, A. Sciarra, M. Breitkopf, S. Oeltze-Jafra, A. Nürnberger, O. Speck
+
+• 29th ISMRM, May 2021, Virtual Conference. 
+Resolving to super resolution multi-dimensional diffusion imaging (Super-MUDI). 
+V. Nath, M. Pizzolato, M. Palombo, N. Gyori, K. G. Schilling, C. Hansen, Q. Yang, P. Kanakaraj, B. A. Landman, S. Chatterjee, A. Sciarra, M. Dünnwald,
+S. Oeltze-Jafra, A. Nürnberger, O. Speck, T. Pieciak, M. Baranek, K. Bartocha, D. Ciupek, F. Bogusz, A. Hamidinekoo, M. Afzali, H. Lin, D. C.
+Alexander, H. Lan, F. Sepehrband, Z. Liang, T.-Y. Wu, C.-W. Su, Q.-H. Wu, Z.-Y. Liu, Y.-P. Chao, E. Albay, G. Unal, D. Pylypenko, X. Ye, F. Zhang, J. Hutter
 
 • MED-NeurIPS (official NeurIPS workshop), December 2020, Virtual Conference. 
 Retrospective Motion Correction of MR Images using Prior-Assisted Deep Learning. 
@@ -73,7 +87,7 @@ M. Dünnwald, M.J. Betts, A. Sciarra, E. Düzel, S. Oeltze-Jafra
 
 • 36th Annual Scientific Meeting ESMRMB, October 2019, Rotterdam, Netherlands. 
 Isotropic High-Resolution DIADEM-VAT at UHF. Magn Reson Mater Phy (2019) 32 (Suppl 1):S72-73. 
-https://doi.org/10.1007/ s10334-019-00753-3. 
+https://doi.org/10.1007/s10334-019-00753-3. 
 Y.-H. Tung, M.-H. In, S. Ahn, A. Sciarra, O. Speck
 
 • 26th ISMRM, June 2018, Paris, France. 
