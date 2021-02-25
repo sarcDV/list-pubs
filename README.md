@@ -14,7 +14,7 @@ I. Polina, D. Kaiser, R. Yakupov, D. Haenelt, A. Sciarra, H. Mattern, E.Duezel, 
 • Magnetic Resonance in Medicine. 
 Prospective motion correction enables highest resolution time-of-flight angiography at 7T. 
 H. Mattern, A. Sciarra, F. Godenschweger, D. Stucht, F. Lüsebrink, G. Rose, O. Speck. 
-(http: //dx.doi.org/doi:10.1002/mrm.27033).
+(http://dx.doi.org/doi:10.1002/mrm.27033).
 
 • Nature Scientific Data. 
 T1-weighted in vivo human whole brain MRI dataset with an ultrahigh isotropic resolution of 250 μm. 
@@ -29,7 +29,7 @@ U. Yarach, M.H. In, I. Chatnuntawech, B. Bilgic, F. Godenschweger, H. Mattern, A
 • Physics in Medicine and Biology - IOPscience -Topical Review. 
 Motion correction in MRI of the brain. 
 F. Godenschweger, U. Kägebein, D. Stucht, U. Yarach, A. Sciarra, R. Yakupov, F. Lüsebrink, P. Schulze, O. Speck. 
-(http: //dx.doi.org/10.1088/0031-9155/61/5/R32).
+(http://dx.doi.org/10.1088/0031-9155/61/5/R32).
 
 • Behavioural Brain Research, Vol. 250, 08/2013, 326-333. 
 Switching Ability of Over Trained Movements in a Parkinson’s Disease Rat Model. 
