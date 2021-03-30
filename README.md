@@ -56,6 +56,7 @@ Alexander, H. Lan, F. Sepehrband, Z. Liang, T.-Y. Wu, C.-W. Su, Q.-H. Wu, Z.-Y. 
 • MED-NeurIPS (official NeurIPS workshop), December 2020, Virtual Conference. 
 Retrospective Motion Correction of MR Images using Prior-Assisted Deep Learning. 
 S. Chatterjee¶, **A. Sciarra¶**, M. Dünnwald, S. Oeltze-Jafra, A. Nürnberger, O. Speck
+(https://arxiv.org/abs/2011.14134)
 
 • 37th Annual Scientific Meeting ESMRMB, October 2020, Virtual Conference. 
 Classification of Motion Corrupted Brain MR Images using Deep Learning Techniques. 
