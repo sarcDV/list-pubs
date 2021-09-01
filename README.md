@@ -2,6 +2,11 @@
 PEER-REVIEWED JOURNAL ARTICLES
 
 • Magnetic Resonance in Medicine. 
+Quantitative evaluation of prospective motion correction in healthy subjects at 7T MRI.
+**A. Sciarra**, H. Mattern, R. Yakupov, S. Chatterjee, D.l Stucht, S. Oeltze-Jafra, F. Godenschweger, O. Speck
+(https://doi.org/10.1002/mrm.28998)
+
+• Magnetic Resonance in Medicine. 
 Prospective motion correction improves high-resolution quantitative susceptibility mapping (QSM) at 7 Tesla. 
 H. Mattern, **A. Sciarra**, F. Lüsebrink, J. Acosta-Cabronero, O. Speck. 
 (http://dx.doi.org/doi:10.1002/mrm.27509).
