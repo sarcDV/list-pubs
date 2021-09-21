@@ -6,6 +6,11 @@ Quantitative evaluation of prospective motion correction in healthy subjects at 
 **A. Sciarra**, H. Mattern, R. Yakupov, S. Chatterjee, D.l Stucht, S. Oeltze-Jafra, F. Godenschweger, O. Speck
 (https://doi.org/10.1002/mrm.28998)
 
+• Nature, Communications Biology.
+Perceived and mentally rotated contents are differentially represented in cortical depth of V1.  
+P. Iamshchinina, D. Kaiser, R. Yakupov, D. Haenelt, **A. Sciarra**, H.Mattern, F. Luesebrink, E. Duezel, O. Speck, N. Weiskopf, R. M. Cichy 
+(https://doi.org/10.1038/s42003-021-02582-4)
+
 • Magnetic Resonance in Medicine. 
 Prospective motion correction improves high-resolution quantitative susceptibility mapping (QSM) at 7 Tesla. 
 H. Mattern, **A. Sciarra**, F. Lüsebrink, J. Acosta-Cabronero, O. Speck. 
