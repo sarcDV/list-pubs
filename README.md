@@ -49,6 +49,18 @@ T.M. Florio, G. Confalone, **A. Sciarra**, A. Sotgiu, M. Alecci
 
 PEER-REVIEWED CONFERENCE CONTRIBUTIONS: 
 
+• ISMRM-ESMRMB, May 2022, London, England, UK. 
+Uncertainty quantification for ground-truth free evaluation of deep learning reconstructions. 
+S. Chatterjee, A. Sciarra, M. Dünnwald, A. B. T. Ashoka, M. G. C. Vasudeva, S. Saravanan, V. T. Sambandham, S. Oeltze-Jafra, O. Speck, A. Nürnberger
+
+• ISMRM-ESMRMB,May 2022,London, England,UK.
+StRegA: Unsupervised Anomaly Detection in Brain MRIs using Compact Context-encoding Variational Autoencoder. 
+S. Chatterjee, A. Sciarra, M. Dünnwald, P. Tummala, S. K. Agrawal, A. Kalra, S. Oeltze-Jafra, O. Speck, A. Nürnberger
+
+• EUSIPCO2021, August 2021, VirtualConference.
+ShuffleUNet:Superresolution of diffusion-weighted MRIs using deep learning. 
+S. Chatterjee*, A. Sciarra*, M. Dünnwald, R. Vinaykanth Mushunuri, R. Podishetti, R. Nagaraja Rao, G. Doddapaneni Gopinath, S. Oeltze-Jafra, O. Speck, A. Nürnberger
+
 • 29th ISMRM, May 2021, Virtual Conference. 
 Unsupervised reconstruction based anomaly detection using a Variational Auto Encoder. 
 S. Chatterjee, **A. Sciarra**, M. Dünnwald, D. Setlur, A. Kalra, S. Oeltze-Jafra, O. Speck, A. Nürnberger
