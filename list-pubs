@@ -38,6 +38,33 @@ T.M. Florio, G. Confalone, A. Sciarra, A. Sotgiu, M. Alecci
 
 PEER-REVIEWED CONFERENCE CONTRIBUTIONS: 
 
+• ISMRM-ESMRMB, May 2022, London, England, UK. 
+Uncertainty quantification for ground-truth free evaluation of deep learning reconstructions. 
+S. Chatterjee, A. Sciarra, M. Dünnwald, A. B. T. Ashoka, M. G. C. Vasudeva, S. Saravanan, V. T. Sambandham, S. Oeltze-Jafra, O. Speck, A. Nürnberger
+
+• ISMRM-ESMRMB,May 2022,London, England,UK.
+StRegA: Unsupervised Anomaly Detection in Brain MRIs using Compact Context-encoding Variational Autoencoder. 
+S. Chatterjee, A. Sciarra, M. Dünnwald, P. Tummala, S. K. Agrawal, A. Kalra, S. Oeltze-Jafra, O. Speck, A. Nürnberger
+
+• EUSIPCO2021, August 2021, VirtualConference.
+ShuffleUNet:Superresolution of diffusion-weighted MRIs using deep learning. 
+S. Chatterjee*, A. Sciarra*, M. Dünnwald, R. Vinaykanth Mushunuri, R. Podishetti, R. Nagaraja Rao, G. Doddapaneni Gopinath, S. Oeltze-Jafra, O. Speck, A. Nürnberger
+
+• 29th ISMRM, May2021,Virtual Conference.
+Unsupervised reconstruction based anomaly detection using a Variational Auto Encoder. 
+S. Chatterjee, A. Sciarra, M. Dünnwald, D. Setlur, A. Kalra, S. Oeltze-Jafra, O. Speck, A. Nürnberger
+
+• 29th ISMRM, May 2021, Virtual Conference. 
+Going beyond the image space: undersampled MRI reconstruction directly in the k-space using a complex valued residual neural network. 
+S. Chatterjee, S.Chompunuch, A. Sciarra, M. Breitkopf, S. Oeltze-Jafra, A. Nürnberger, O. Speck
+
+• 29th ISMRM, May 2021, Virtual Conference. 
+Resolving to super resolution multi-dimensional diffusion imaging (Super-MUDI). 
+V. Nath, M. Pizzolato, M. Palombo, N. Gyori, K. G. Schilling, C. Hansen, Q. Yang, P. Kanakaraj, B. A. Landman, S. Chatterjee, 
+A. Sciarra, M. Dünnwald, S. Oeltze-Jafra, A. Nürnberger, O. Speck, T. Pieciak, M. Baranek, K. Bartocha, D. Ciupek, F. Bogusz, 
+A. Hamidinekoo, M. Afzali, H. Lin, D. C. Alexander, H. Lan, F. Sepehrband, Z. Liang, T.-Y. Wu, C.-W. Su, Q.-H. Wu, Z.-Y. Liu, 
+Y.-P. Chao, E. Albay, G. Unal, D. Pylypenko, X. Ye, F. Zhang, J. Hutter
+
 • MED-NeurIPS (official NeurIPS workshop), December 2020, Virtual Conference. 
 Retrospective Motion Correction of MR Images using Prior-Assisted Deep Learning. 
 S. Chatterjee*, A. Sciarra*, M. Dünnwald, S. Oeltze-Jafra, A. Nürnberger, O. Speck
