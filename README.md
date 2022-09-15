@@ -1,6 +1,11 @@
 # list-pubs
 PEER-REVIEWED JOURNAL ARTICLES
 
+• Computers in Biology and Medicine. 
+StRegA: Unsupervised anomaly detection in brain MRIs using a compact context-encoding variational autoencoder.
+S. Chatterjee, **A. Sciarra**, M. Dünnwald, P. Tummala, S. Kumar Agrawal, A. Jauhari, A. Kalra, S. Oeltze-Jafra, O. Speck, A. Nürnberger
+(https://doi.org/10.1016/j.compbiomed.2022.106093)
+
 • Magnetic Resonance in Medicine. 
 Quantitative evaluation of prospective motion correction in healthy subjects at 7T MRI.
 **A. Sciarra**, H. Mattern, R. Yakupov, S. Chatterjee, D.l Stucht, S. Oeltze-Jafra, F. Godenschweger, O. Speck
