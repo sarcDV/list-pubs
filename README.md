@@ -51,6 +51,14 @@ Switching Ability of Over Trained Movements in a Parkinson’s Disease Rat Model
 T.M. Florio, G. Confalone, **A. Sciarra**, A. Sotgiu, M. Alecci 
 (http://dx.doi.org/10.1016/j.bbr.2013.05.020).
 
+BOOKS:
+
+Books
+• Springer International Publishing, Intelligent Systems Reference Library, 2022, ISBN: 9783031111532.
+Artificial Intelligence and Machine Learning for Healthcare: Vol. 1: Image and Data Analytics.
+Chapter 3: Artificial Intelligence Based Strategies for Data‑Driven Radial MRI. G. Placidi, L. Cinque, F. Mignosi,
+M. Polsinelli, **A. Sciarra**. 
+(https://books.google.de/books?id=qR44zwEACAAJ).
 
 PEER-REVIEWED CONFERENCE CONTRIBUTIONS: 
 
