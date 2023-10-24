@@ -61,6 +61,16 @@ M. Polsinelli, **A. Sciarra**.
 
 PEER-REVIEWED CONFERENCE CONTRIBUTIONS: 
 
+• 39th Annual Scientific Meeting ESMRMB, October 2023.
+G. Mietzner, F. Schreiber, L. Lümkemann, J. Brüggemann, A. Sciarra, C. Knoll, E. Kuehn, O. Speck, S. Schreiber, H. Mattern
+Enabling in vivo assessment of motor cortex vessel dominance patterns using 7 T MRI and vessel distance mapping.
+https://link.springer.com/article/10.1007/s10334-023-01108-9
+
+• In 2023 IEEE 36th International Symposium on Computer-Based Medical Systems (CBMS) (pp. 456-462). IEEE.
+Pio, A., Castellano, G., Mignosi, F., Placidi, G., Polsinelli, M., Sciarra, A., & Vessio, G. (2023, June). 
+Graph Model to Represent Color Closeness in Pseudo-color Multimodal MRI. 
+https://ieeexplore.ieee.org/abstract/document/10178801
+
 • MIDL, July 2022, Zürich, Switzerland, Jul 06, 2022, https://2022.midl.io/
 Reference-less SSIM Regression for Detection and Quantification of Motion Artefacts in Brain MRIs.
 A. Sciarra, S. Chatterjee, M. Dünnwald, G. Placidi, A. Nürnberger, O. Speck, S. Oeltze-Jafra
