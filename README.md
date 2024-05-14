@@ -21,11 +21,6 @@ Prospective motion correction improves high-resolution quantitative susceptibili
 H. Mattern, **A. Sciarra**, F. Lüsebrink, J. Acosta-Cabronero, O. Speck. 
 (http://dx.doi.org/doi:10.1002/mrm.27509).
 
-• Journal of Vision. 
-Perceived and mentally rotated contents are differentially represented in cortical layers of V1. 
-I. Polina, D. Kaiser, R. Yakupov, D. Haenelt, **A. Sciarra**, H. Mattern, E.Duezel, O. Speck, N. Weiskopf, R. M. Cichy. 
-(https://doi.org/10.1167/jov.20.11.766).
-
 • Magnetic Resonance in Medicine. 
 Prospective motion correction enables highest resolution time-of-flight angiography at 7T. 
 H. Mattern, **A. Sciarra**, F. Godenschweger, D. Stucht, F. Lüsebrink, G. Rose, O. Speck. 
@@ -105,8 +100,13 @@ Alexander, H. Lan, F. Sepehrband, Z. Liang, T.-Y. Wu, C.-W. Su, Q.-H. Wu, Z.-Y. 
 
 • MED-NeurIPS (official NeurIPS workshop), December 2020, Virtual Conference. 
 Retrospective Motion Correction of MR Images using Prior-Assisted Deep Learning. 
-S. Chatterjee¶, **A. Sciarra¶**, M. Dünnwald, S. Oeltze-Jafra, A. Nürnberger, O. Speck
+S. Chatterjee¶, **A. Sciarra**, M. Dünnwald, S. Oeltze-Jafra, A. Nürnberger, O. Speck
 (https://arxiv.org/abs/2011.14134)
+
+• Journal of Vision. 
+Perceived and mentally rotated contents are differentially represented in cortical layers of V1. 
+I. Polina, D. Kaiser, R. Yakupov, D. Haenelt, **A. Sciarra**, H. Mattern, E.Duezel, O. Speck, N. Weiskopf, R. M. Cichy. 
+(https://doi.org/10.1167/jov.20.11.766).
 
 • 37th Annual Scientific Meeting ESMRMB, October 2020, Virtual Conference. 
 Classification of Motion Corrupted Brain MR Images using Deep Learning Techniques. 
