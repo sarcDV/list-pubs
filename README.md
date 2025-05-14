@@ -6,6 +6,11 @@ PULASki: Learning inter-rater variability using statistical distances to improve
 S. Chatterjee, F. Gaidzik, **A. Sciarra**, H. Mattern, G. Janiga, O. Speck, A. Nürnberger, S. Pathiraja
 (https://doi.org/10.1016/j.media.2025.103623)
 
+• Medical Image Analysis. 
+Fully automated MRI-based analysis of the locus coeruleus in aging and Alzheimer's disease dementia using ELSI-Net.
+M. Dünnwald, F. Krohn, **A. Sciarra**, M. Sarkar, A. Schneider, K. Fliessbach, O. Kimmich, F. Jessen, A. Rostamzadeh, W. Glanz, E. I. Incesoy, S. Teipel, I. Kilimann, D. Goerss, A. Spottke, J. Brustkern, M. T. Heneka, F. Brosseron, F. Lüsebrink, D. Hämmerer, E. Düzel, K. Tönnies, S. Oeltze-Jafra, M. J. Betts
+(https://doi.org/10.1002/dad2.70118)
+
 • Computers in Biology and Medicine. 
 StRegA: Unsupervised anomaly detection in brain MRIs using a compact context-encoding variational autoencoder.
 S. Chatterjee, **A. Sciarra**, M. Dünnwald, P. Tummala, S. Kumar Agrawal, A. Jauhari, A. Kalra, S. Oeltze-Jafra, O. Speck, A. Nürnberger
